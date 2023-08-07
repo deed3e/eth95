@@ -26,7 +26,7 @@ const Layout = ({ children }) => (
     <ThemeProvider theme={original}>
       <AppContainer>
         <Container shadow={false}>
-          <WindowHeader>Eth95.exe</WindowHeader>
+          <WindowHeader>console - fdex </WindowHeader>
           <Content>{children}</Content>
         </Container>
       </AppContainer>
